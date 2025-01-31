@@ -3,7 +3,7 @@
 
 Contains two files 2048 game and 2048 ai.
 
-To be used with the Window library: [https://github.com/NubSh0t/Pyopengl-2d-wrapper-library]
+To be used with the Window library: https://github.com/NubSh0t/Pyopengl-2d-wrapper-library
 
 2048 game is the playable version (using keys WASD) on the keyboard.
 
